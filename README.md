@@ -1,6 +1,6 @@
 - 👋 Hi, I am a Brazilian/Italian developer based in London, UK.
 - 🌱 I’m currently learning Frontend development, Webdesign and UI UX design.
-- 👀 I’m interested in Design in general, Digital Art and Coding. 
+- 👀 I’m interested in Design, Digital Art and Coding. 
 - 📫 How to reach me : wesley_luiz2001@hotmail.com
 
 <!---
